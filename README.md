@@ -8,13 +8,14 @@ Este sistema permite a los usuarios:
 Para actualizar los asientos disponibles, la app genera un código de barras que deberá escanearse al entrar al autobús.
 Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código.
 
-Guía de instalación y despliegue: 
-Requisitos
+# Guía de instalación y despliegue: Requisitos
 
-Pasos de instalación
+  ## 1-Como desplegar.
 
-Configuración de entorno
+# Pasos de instalación
 
-Comandos de ejecución
+# Configuración de entorno
 
-Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
+# Comandos de ejecución
+
+# Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
