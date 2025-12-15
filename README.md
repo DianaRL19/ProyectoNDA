@@ -51,14 +51,21 @@ Los colores usados son:
 Diseño adaptado a dispositivos móviles desde  6,1 pulgadas a 6,7 pulgadas.
 
 # Configuración de entorno
+Este proyecto utiliza variables de entorno para manejar información sensible y configuraciones dependientes del entorno (como credenciales de base de datos y claves privadas).
 
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=usuarios
+DB_USER=admin
+DB_PASSWORD=Admin123
+
+Para entrar a la base de datos, tenemos el usuario admin con la contraseña Admin123.
+Por defecto se utiliza localhost y el puerto 5432.
 # Comandos de ejecución 
 
 ### 1. Conectar vía SSH a tu servidor EC2
 ### 2. Actualizar paquetes y dependencias
 ### 3. Ejecutar el backend 
 ### 4. Conectar todas las API's necesarias
-
-
 
 # Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
