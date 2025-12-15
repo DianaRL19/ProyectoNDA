@@ -10,9 +10,19 @@ Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código
 
 # Guía de instalación y despliegue: Requisitos
 
-  ## 1-Como desplegar.
+  ## 1-Como instalar.
+  ### En iphone.
+     Ir a la app Store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
 
-# Pasos de instalación
+   ### En android.
+     Ir a la play store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
+
+   ## 2-Requisitos.
+     -Tener una red estable para su descarga
+     -Camara con lector QR
+     -2 Gb de ram para un rendimiento fluido
+     -Espacio de entre 100-500mb de espacioç
+     -GPS integrado
 
 # Guia de estilos
 
