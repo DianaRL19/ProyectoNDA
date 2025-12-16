@@ -53,11 +53,11 @@ Diseño adaptado a dispositivos móviles desde  6,1 pulgadas a 6,7 pulgadas.
 # Configuración de entorno
 Este proyecto utiliza variables de entorno para manejar información sensible y configuraciones dependientes del entorno (como credenciales de base de datos y claves privadas).
 
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=usuariosEjemplo
-DB_USER=adminEjemplo
-DB_PASSWORD=contraseniaEjemplo
+- **DB_HOST=localhost**
+- **DB_PORT=5432**
+- **DB_NAME=usuariosEjemplo**
+- **DB_USER=adminEjemplo**
+- **DB_PASSWORD=contraseniaEjemplo**
 
 Por defecto se utiliza localhost y el puerto 5432.
 
