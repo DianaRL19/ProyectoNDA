@@ -6,7 +6,7 @@ Este sistema permite a los usuarios:
 -  La compra anticipada del billete o en el momento de entrar al autobús.
 
 Para actualizar los asientos disponibles, la app genera un código de barras que deberá escanearse al entrar al autobús.
-Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código.
+Para usuarios sin dispositivo móvil, se ofrecerá una tarjeta física con su propio código.
 
 # Guía de instalación y despliegue: Requisitos
 
