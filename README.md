@@ -69,3 +69,15 @@ Por defecto se utiliza localhost y el puerto 5432.
 ### 4. Conectar todas las API's necesarias
 
 # Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
+
+Este proyecto está desplegado en **Amazon Web Services (AWS)** utilizando una instancia **EC2** con **Apache** y **PHP 8.x** como lenguaje principal.  
+La base de datos está gestionada en **AWS con PostgreSQL** para garantizar seguridad y escalabilidad.
+
+### Configuración del servidor
+- **Instancia EC2**: Amazon Linux 2 con Apache y PHP.
+- **Base de datos**: PostgreSQL en RDS, accesible solo desde la instancia EC2.
+- **Seguridad**:
+  - Puertos abiertos: 80 (HTTP) y 443 (HTTPS).
+  - Roles para acceso seguro a recursos.
+
+
