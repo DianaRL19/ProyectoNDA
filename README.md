@@ -11,11 +11,11 @@ Para usuarios sin dispositivo móvil, se ofrecerá una tarjeta física con su pr
 # Guía de instalación y despliegue: Requisitos
 
   ## 1-Como instalar.
-  ### En iphone.
-     Ir a la app Store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
+  ### En iPhone.
+     Ir a la App Store buscar ProyectoNDA, desde ahí se puede descargar la aplicación.
 
    ### En android.
-     Ir a la play store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
+     Ir a la Play Store buscar ProyectoNDA, desde ahí se puede descargar la aplicación.
 
    ## 2-Requisitos.
      -Tener una red estable para su descarga
