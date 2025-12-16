@@ -55,10 +55,10 @@ Este proyecto utiliza variables de entorno para manejar información sensible y 
 
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=usuarios
-DB_USER=admin
+DB_NAME=usuariosEjemplo
+DB_USER=adminEjemplo
+DB_PASSWORD=contraseniaEjemplo
 
-Para entrar a la base de datos, tenemos el usuario admin3.
 Por defecto se utiliza localhost y el puerto 5432.
 
 # Comandos de ejecución 
