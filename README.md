@@ -70,3 +70,5 @@ hola soy Noe en la nueva rama
 ### 4. Conectar todas las API's necesarias
 
 # Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
+
+Hola, esta es la pull request
