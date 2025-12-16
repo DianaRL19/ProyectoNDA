@@ -19,9 +19,9 @@ Para usuarios sin dispositivo móvil, se ofrecerá una tarjeta física con su pr
 
    ## 2-Requisitos.
      -Tener una red estable para su descarga
-     -Camara con lector QR
+     -Camara con lector de codigo de barras
      -2 Gb de ram para un rendimiento fluido
-     -Espacio de entre 100-500mb de espacioç
+     -Espacio de entre 100-500mb de espacio
      -GPS integrado
 
 # Guia de estilos
