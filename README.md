@@ -53,16 +53,14 @@ Diseño adaptado a dispositivos móviles desde  6,1 pulgadas a 6,7 pulgadas.
 # Configuración de entorno
 Este proyecto utiliza variables de entorno para manejar información sensible y configuraciones dependientes del entorno (como credenciales de base de datos y claves privadas).
 
-- **DB_HOST=localhost**
-- **DB_PORT=5432**
-- **DB_NAME=usuariosEjemplo**
-- **DB_USER=adminEjemplo**
-- **DB_PASSWORD=contraseniaEjemplo**
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=usuarios
+DB_USER=admin
 
+Para entrar a la base de datos, tenemos el usuario admin.
 Por defecto se utiliza localhost y el puerto 5432.
-
-Nuestros archivos .env seran añadidos a nuestro gitignore para que no puedan ser subidos a github, de esta forma los tendremos en forma local
-y evitaremos publicarlos de forma erronea en nuestro github
+hola soy Noe en la nueva rama
 
 # Comandos de ejecución 
 
@@ -73,14 +71,4 @@ y evitaremos publicarlos de forma erronea en nuestro github
 
 # Hosting. (Lo que pueda realizarse llegado a este punto a nivel técnico)
 
-Este proyecto está desplegado en **Amazon Web Services (AWS)** utilizando una instancia **EC2** con **Apache** y **PHP 8.x** como lenguaje principal.  
-La base de datos está gestionada en **AWS con PostgreSQL** para garantizar seguridad y escalabilidad.
-
-### Configuración del servidor
-- **Instancia EC2**: Amazon Linux 2 con Apache y PHP.
-- **Base de datos**: PostgreSQL en RDS, accesible solo desde la instancia EC2.
-- **Seguridad**:
-  - Puertos abiertos: 80 (HTTP) y 443 (HTTPS).
-  - Roles para acceso seguro a recursos.
-
-
+Hola, esta es la pull request
