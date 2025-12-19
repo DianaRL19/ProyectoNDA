@@ -6,22 +6,22 @@ Este sistema permite a los usuarios:
 -  La compra anticipada del billete o en el momento de entrar al autobús.
 
 Para actualizar los asientos disponibles, la app genera un código de barras que deberá escanearse al entrar al autobús.
-Para usuarios sin móvil, se ofrecerá una tarjeta física con su propio código.
+Para usuarios sin dispositivo móvil, se ofrecerá una tarjeta física con su propio código.
 
 # Guía de instalación y despliegue: Requisitos
 
   ## 1-Como instalar.
-  ### En iphone.
-     Ir a la app Store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
+  ### En iPhone.
+     Ir a la App Store buscar ProyectoNDA, desde ahí se puede descargar la aplicación.
 
    ### En android.
-     Ir a la play store buscar ProyectoNDA, desde ahi se puede descargar la aplicación.
+     Ir a la Play Store buscar ProyectoNDA, desde ahí se puede descargar la aplicación.
 
    ## 2-Requisitos.
      -Tener una red estable para su descarga
-     -Camara con lector QR
+     -Camara con lector de codigo de barras
      -2 Gb de ram para un rendimiento fluido
-     -Espacio de entre 100-500mb de espacioç
+     -Espacio de entre 100-500mb de espacio
      -GPS integrado
 
 # Guia de estilos
